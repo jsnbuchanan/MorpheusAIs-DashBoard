@@ -85,6 +85,40 @@
     "mainnet": "Ethereum Mainnet",
     "testnet": "Ethereum Sepolia"
   },
+  "tour": {
+    "step-1-welcome": {
+      "title": "Welcome to Morpheus",
+      "content": "Morpheus is a decentralized platform that allows you to earn MOR tokens by depositing stETH. The platform is divided into two groups: Capital and Community. Capital is a public pool where you can deposit stETH and earn MOR tokens. Community is a private pool where you can earn MOR tokens by contributing to the development of the Morpheus ecosystem."
+    },
+    "step-2": {
+      "title": "Capital",
+      "content": "The Capital group is a public pool where you can deposit stETH and earn MOR tokens. The platform is automated and the rewards are distributed daily."
+    },
+    "step-3": {
+      "title": "Community",
+      "content": "The Community group is a private pool where you can earn MOR tokens by contributing to the development of the Morpheus ecosystem. The platform is non-automated and the rewards are distributed daily."
+    },
+    "step-4": {
+      "title": "Deposit",
+      "content": "To deposit stETH, click the Deposit button and enter the desired amount. In case of the first transaction, you will need to approve the transfer of funds."
+    },
+    "step-5": {
+      "title": "Withdraw",
+      "content": "To withdraw stETH, click the Withdraw button and enter the desired amount. The funds will be sent to your wallet."
+    },
+    "step-6": {
+      "title": "Claim",
+      "content": "To claim MOR tokens, click the Claim button. The tokens will be minted in the Arbitrum One network."
+    },
+    "step-7": {
+      "title": "FAQ",
+      "content": "If you have any questions, you can find answers in the FAQ section."
+    },
+    "step-8": {
+      "title": "Community Website",
+      "content": "You can find more information about the Morpheus ecosystem on the Community Website."
+    }
+  },
   "validations": {
     "field-error_address": "Field must be a valid address with prefix \"0x\"",
     "field-error_required": "Field must be filled in",
